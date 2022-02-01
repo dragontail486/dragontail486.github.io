@@ -9,6 +9,6 @@ title: 关于我
 
 - QQ&nbsp;&nbsp;&nbsp;&nbsp;: 17942496886
 
-- Email&nbsp;: 1792496886 @qq.com 
+- Email&nbsp;: 1792496886@qq.com 
 
 
