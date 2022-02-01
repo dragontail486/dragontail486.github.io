@@ -1,10 +1,10 @@
 encoding: utf-8
 
 # SEO相关信息
-title: TMaize Blog
-description: TMaize的个人博客
-keywords: TMaize,Blog,Java,Html,JavaScript
-author: TMaize
+title: Anni Blog
+description: Anni的个人博客
+keywords: Anni,Blog,Java,Html,JavaScript
+author: Anni
 footerText: 'Copyright © 2016 皖ICP备16016174号'
 
 # 这些不要动
@@ -17,11 +17,11 @@ exclude: ['CNAME', 'README.md', 'LICENSE', '_site', 'dist', 'Gemfile', 'Gemfile.
 
 # 域名配置
 # baseurl配置,如果网站部署在根目录下的其他目录中，请设置为 /目录名
-domainUrl: 'https://blog.tmaize.net'
+domainUrl: 'https://dragontail486.github.io/'
 baseurl: ''
 
 # 吐个槽地址，会在chat页面中重定向到该地址
-tucaoUrl: https://support.qq.com/product/86335
+#tucaoUrl: https://support.qq.com/product/86335
 
 # 菜单
 # 必填字段 title: '文本' url: '链接'
@@ -33,10 +33,6 @@ menu:
     url: /pages/categories.html
   - title: 搜索
     url: /pages/search.html
-  - title: 友链
-    url: /pages/links.html
-  - title: 留言
-    url: /pages/chat.html
   - title: 关于
     url: /pages/about.html
 
